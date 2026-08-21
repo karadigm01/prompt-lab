@@ -97,6 +97,7 @@ It cannot guarantee model correctness.
 
 ## Repository Structure
 
+    ```text
     prompt-lab/
     │
     ├── README.md
@@ -114,6 +115,7 @@ It cannot guarantee model correctness.
     │       └── ...
     │
     └── LICENSE
+    ```
 
 Each prompt directory is self-contained so new prompts can be added without requiring the central documentation to be rewritten.
 
