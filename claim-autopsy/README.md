@@ -1,3 +1,6 @@
+# Original Idea
+What if traffic lights could communicate directly with approaching cars, telling each car exactly when the light will change? The car could automatically adjust its speed so that instead of stopping at red lights, traffic would naturally arrive during green lights. This could reduce traffic jams, fuel consumption, brake wear, and maybe even eliminate the need for cars to stop at intersections most of the time.
+
 # Claim Autopsy
 
 > **Dissect first. Verdict last.**
