@@ -1,4 +1,3 @@
-````markdown
 # Idea Reality Check
 
 ### *Am I Actually Onto Something?*
