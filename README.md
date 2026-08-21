@@ -97,25 +97,25 @@ It cannot guarantee model correctness.
 
 ## Repository Structure
 
-    ```text
-    prompt-lab/
-    │
-    ├── README.md
-    │
-    ├── <prompt-name>/
-    │   ├── README.md
-    │   ├── prompt.md
-    │   └── examples/
-    │       └── ...
-    │
-    ├── <another-prompt>/
-    │   ├── README.md
-    │   ├── prompt.md
-    │   └── examples/
-    │       └── ...
-    │
-    └── LICENSE
-    ```
+```text
+prompt-lab/
+│
+├── README.md
+│
+├── <prompt-name>/
+│   ├── README.md
+│   ├── prompt.md
+│   └── examples/
+│       └── ...
+│
+├── <another-prompt>/
+│   ├── README.md
+│   ├── prompt.md
+│   └── examples/
+│       └── ...
+│
+└── LICENSE
+```
 
 Each prompt directory is self-contained so new prompts can be added without requiring the central documentation to be rewritten.
 
