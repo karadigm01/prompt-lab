@@ -1,7 +1,4 @@
 # Original Claim
-Electric vehicles are actually worse for the environment because manufacturing their batteries produces more CO₂ than gasoline cars, their batteries only last a few years, and most electricity still comes from fossil fuels anyway.
-
-# Original Claim
 Whats the best verifiable claim that the existence of extraterrestrial life existing as portrayed throughout human history is real?
 
 # Claim Autopsy
