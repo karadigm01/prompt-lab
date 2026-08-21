@@ -1,6 +1,3 @@
-Yep. Since the root README already explains **Prompt Lab's testing philosophy**, Claim Autopsy's README should stay focused on **what this specific prompt does, why it exists, how to use it, and how its tests are organized**. I’d draft it like this:
-
-````markdown
 # Claim Autopsy
 
 > **Dissect first. Verdict last.**
