@@ -316,26 +316,6 @@ The objective is neither encouragement nor debunking.
 
 It is diagnosis.
 
-------------------------------------------------------------------------
-
-## Status
-
-**Version 1.0 --- Experimental**
-
-Idea Reality Check has been stress-tested against speculative
-biotechnology, theoretical dimensional physics, and
-quantum-gravitational energy-generation concepts.
-
-The tests deliberately include ideas containing mixtures of established
-concepts, speculative mechanisms, serious feasibility problems, and
-potentially interesting underlying questions.
-
-Future revisions should be evaluated against existing test cases to
-ensure improvements do not introduce excessive skepticism, excessive
-agreement, false novelty claims, or failure to preserve worthwhile
-components of otherwise flawed ideas.
-
-------------------------------------------------------------------------
 
 ## The Basic Rule
 

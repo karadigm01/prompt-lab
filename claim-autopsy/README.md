@@ -236,16 +236,3 @@ And above all:
 
 > **Dissect first. Verdict last.**
 
-------------------------------------------------------------------------
-
-## Status
-
-**Version 1.0 --- Experimental**
-
-Claim Autopsy has been stress-tested against straightforward factual
-claims, compound environmental arguments, and extraordinary
-historical/UAP claims.
-
-Future revisions should be judged against existing test cases to ensure
-that improvements do not introduce regressions in evidence handling,
-uncertainty calibration, or claim decomposition.
